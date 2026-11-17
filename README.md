@@ -1,5 +1,7 @@
 # Network Security - Final Skills Assessment
 Cisco Packet Tracer · Routers 4331/4221 · Catalyst 2960
+## The purpose
+Final project for the Network Administration course, designed to apply the concepts learned in class.
 
 ## Overview
 Final practical assessment for a Network Security course. Covers the full 
